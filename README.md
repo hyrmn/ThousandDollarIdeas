@@ -18,3 +18,8 @@ Instead of one big, good idea to make a lot of money... a bunch of poor, small i
    There are starting to be more apps in this space, but a way to quickly catalog what you've planted, when, how it went, and help you plan out upcoming tasks would be very useful. A lot of it could be triggered off of your specific growing seasons and help with things that always suck for small-time gardeners, like succession planting schedules.
 
   This would be a good app for an open source implementation on Nancy.
+
+ - **Reading Journal**
+  
+ Just for the oss work... simple app to let you track and rate what you've read, books on loan to people, etc. Could be another showcase for some DDD work (simple domain, time-based intransients like book on loan). Nancy would be perfect for this. Yes, GoodReads exists, but, hey.
+
