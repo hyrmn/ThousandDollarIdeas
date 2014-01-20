@@ -1,4 +1,4 @@
-ThousandDollarIdeas
+Thousand Dollar Ideas
 ===================
 
 Instead of one big, good idea to make a lot of money... a bunch of poor, small ideas to make a little money. I take pull requests.
@@ -28,3 +28,9 @@ Instead of one big, good idea to make a lot of money... a bunch of poor, small i
   Help with https://github.com/pgermishuys/Jubilee because I want to because I think it's got some great promise and also becasue @pgermishuys is an all-around nice guy.
 
   I'm especially keen on if there's a compelling story with ScriptCS. Oh, and generally making the end-user's experience with Jubilee fun and as painless as possible.
+
+ - **Farm site template**
+ 
+  We set up http://chickadeecreekmi.com/ for some friends. It's on wordpress.com because that's a fairly straightforward, turn-key solution. However, that hosting nickles and dimes you. It's also overkill for what they need.
+
+  There are probably others that just need a really simple interface for creating content and setting some basic styles without all of the power of Wordpress. In addition to looking at some existing solutions out there, it might be fun to use cheap hosting like Azure or DigitalOcean to launch some farm-specific things. I could see a CSA wanting to publish a farm newsletter and let people know what to expect through the growing season, for example.
