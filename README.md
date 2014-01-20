@@ -25,6 +25,6 @@ Instead of one big, good idea to make a lot of money... a bunch of poor, small i
 
  - **Jubilee**
  
-Help with https://github.com/pgermishuys/Jubilee because I want to because I think it's got some great promise and also becasue @pgermishuys is an all-around nice guy.
+  Help with https://github.com/pgermishuys/Jubilee because I want to because I think it's got some great promise and also becasue @pgermishuys is an all-around nice guy.
 
-I'm especially keen on if there's a compelling story with ScriptCS. Oh, and generally making the end-user's experience with Jubilee fun and as painless as possible.
+  I'm especially keen on if there's a compelling story with ScriptCS. Oh, and generally making the end-user's experience with Jubilee fun and as painless as possible.
