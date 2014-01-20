@@ -23,3 +23,8 @@ Instead of one big, good idea to make a lot of money... a bunch of poor, small i
   
  Just for the oss work... simple app to let you track and rate what you've read, books on loan to people, etc. Could be another showcase for some DDD work (simple domain, time-based intransients like book on loan). Nancy would be perfect for this. Yes, GoodReads exists, but, hey.
 
+ - **Jubilee**
+ 
+Help with https://github.com/pgermishuys/Jubilee because I want to because I think it's got some great promise and also becasue @pgermishuys is an all-around nice guy.
+
+I'm especially keen on if there's a compelling story with ScriptCS. Oh, and generally making the end-user's experience with Jubilee fun and as painless as possible.
