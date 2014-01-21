@@ -3,6 +3,8 @@ Thousand Dollar Ideas
 
 Instead of one big, good idea to make a lot of money... a bunch of poor, small ideas to make a little money. I take pull requests.
 
+*Note:* These ideas are released unencumbered (aside from the fact that they're lousy) into the public domain. See the license file for more information.
+
  - **KennelFinder.com**
   
    KennelFinder never really went anywhere. I don't own it any more, having given it to friends, but could still work on it. They've agreed to let me open source the code. I'm going to rewrite with Nancy and show off some CQRS+ES+DDD concepts.
