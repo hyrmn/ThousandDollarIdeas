@@ -42,3 +42,19 @@ Instead of one big, good idea to make a lot of money... a bunch of poor, small i
   I've always been interested in the process of taking something from idea to concept to thing. The buzzword in the early '00's at big businesses was ideation. Ideas are a time a dozen and most ideas are shit. Hell, even good ideas are shit. If you don't believe me, buy me a beer sometime and I'll help you come up with 20 bad ideas by the time we're done. So, it'd be interesting to further explore how to generate and vette ideas. I think this can be done completely in the open (obviously, as I have everything on a public page).
 
   I know there are some cool apps and sites in this space already. Still, in addition to more ideas, we need more people parroting existing work. (yeah!)
+
+ - **Idea vote site**
+  
+  Brainstorming for internal company use. Post ideas, vote, comment (SO for ideas maybe?). Best and worst at the end of the week / month, whatever.
+
+ - **Seedling monitoring arduino**
+  
+  Some simple probes to monitor moisture level as well as soil temp. Would work well to integrate into some sort of tracking site to journal plant growth. Eventually this could help advise on water / temp / light levels to keep things growing nicely.
+
+ - **Plant monitoring arduino**
+  
+  Track moisture levels in beds. Look at weather forecast. Make intelligent decisions on when to turn on drip lines to bed (need water but rain forecast at 60% tomorrow, don't water). Would be useful to record temps several times a day as well to better determine microclimate.
+
+ - **Water level monitoring arduino**
+ 
+  Would like to start watering the garden from rain barrels. When the rain barrel levels are low, cycle on a pump from the spring to refill. Combined with the plant monitoring arduino, this would be an effective babysitting solution if we needed to get away for a weekend here and there in the summer (now, if I could come up with a weeding robot...)
