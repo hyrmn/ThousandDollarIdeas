@@ -62,3 +62,11 @@ Instead of one big, good idea to make a lot of money... a bunch of poor, small i
  - **Cemetary Mananagement Software**
   
   Plot management, groundskeeping, expense reporting. Probably need trust accounting to track plot sales. Would be great to offer an api up for integrating with a site like findagrave.
+
+ - **WhatTheCommit knockoff**
+  
+  I reference WhatTheCommit.com in my .gitconfig in an alias... an alias that happens to be shared around a lot. It'd be nice to use Nancy to build a simple little app to replicate the functionality. Could come up with a nice way for people to submit funny commit messages too.
+
+ - **AintMySite**
+
+  Many moons ago, I was bored in a training class on some product and wrote a little website where the front page was editable by anyone. I saved the last x (10 I think) versions of the site and thumbprinted the uploader's IP address. It actually got some traffic but I let it all die on the vine. It'd be fun to resurrect it in some form.
