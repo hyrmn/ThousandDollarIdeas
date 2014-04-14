@@ -86,3 +86,7 @@ Instead of one big, good idea to make a lot of money... a bunch of poor, small i
  - **Due Me**
  
   A to-do list that prioritizes by financial interest in completing a task. For example, a task to return library books would move up the list as their return date approaches. Color-code in red the items that are overdue and costing you money.
+
+ - **Cablr**
+ 
+  Network admins are like obsessed with their cable management work. Make a site for sharing cabling pictures like HotOrNot but specifically for server racks, basically.
