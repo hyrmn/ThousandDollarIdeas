@@ -70,3 +70,15 @@ Instead of one big, good idea to make a lot of money... a bunch of poor, small i
  - **AintMySite**
 
   Many moons ago, I was bored in a training class on some product and wrote a little website where the front page was editable by anyone. I saved the last x (10 I think) versions of the site and thumbprinted the uploader's IP address. It actually got some traffic but I let it all die on the vine. It'd be fun to resurrect it in some form.
+
+ - ** Bowel movement log **
+  
+  Keep regular tabs on if you're regular. Could even build in predictive capability. Mood tracking.
+
+ - ** RateMyPorkChop **
+ 
+  Because you absolutely need to know when and where you had a good pork chop. Should be able to search by location and also rating.
+
+ - ** Bad idea Markov chain generator **
+  
+ Using this readme, among others, create a Markov chain generator to come up with bad ideas. Incorporate a twitter bot. Flag for follow-up random ideas that were starred. Even a Markov agent might have a good idea given the awesome source material here.
