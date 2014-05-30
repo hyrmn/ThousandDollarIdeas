@@ -90,3 +90,7 @@ Instead of one big, good idea to make a lot of money... a bunch of poor, small i
  - **Cablr**
  
   Network admins are like obsessed with their cable management work. Make a site for sharing cabling pictures like HotOrNot but specifically for server racks, basically.
+
+ - **WheresMyStuff**
+ 
+  Track things you own and who you've lent them to.
