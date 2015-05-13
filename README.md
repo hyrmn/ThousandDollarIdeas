@@ -25,7 +25,7 @@ Instead of one big, good idea to make a lot of money... a bunch of poor, small i
   
  Just for the oss work... simple app to let you track and rate what you've read, books on loan to people, etc. Could be another showcase for some DDD work (simple domain, time-based intransients like book on loan). Nancy would be perfect for this. Yes, GoodReads exists, but, hey.
 
-  - **Farm site template**
+ - **Farm site template**
  
   We set up http://chickadeecreekmi.com/ for some friends. It's on wordpress.com because that's a fairly straightforward, turn-key solution. However, that hosting nickles and dimes you. It's also overkill for what they need.
 
