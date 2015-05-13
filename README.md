@@ -25,13 +25,7 @@ Instead of one big, good idea to make a lot of money... a bunch of poor, small i
   
  Just for the oss work... simple app to let you track and rate what you've read, books on loan to people, etc. Could be another showcase for some DDD work (simple domain, time-based intransients like book on loan). Nancy would be perfect for this. Yes, GoodReads exists, but, hey.
 
- - **Jubilee**
- 
-  Help with https://github.com/pgermishuys/Jubilee because I want to because I think it's got some great promise and also becasue @pgermishuys is an all-around nice guy.
-
-  I'm especially keen on if there's a compelling story with ScriptCS. Oh, and generally making the end-user's experience with Jubilee fun and as painless as possible.
-
- - **Farm site template**
+  - **Farm site template**
  
   We set up http://chickadeecreekmi.com/ for some friends. It's on wordpress.com because that's a fairly straightforward, turn-key solution. However, that hosting nickles and dimes you. It's also overkill for what they need.
 
@@ -94,3 +88,19 @@ Instead of one big, good idea to make a lot of money... a bunch of poor, small i
  - **WheresMyStuff**
  
   Track things you own and who you've lent them to.
+
+ - **MeetDown**
+ 
+  Like Meetup but for fight clubs. The biggest problem is how to advertise it without actually talking about it.
+
+ - **FindMyMate**
+ 
+  Post pictures of single socks you have in your drawer in hopes someone can hook you up with a match.
+
+ - **cheeseHarmony**
+ 
+  Like eHarmony but for people that really, really love dairy.
+
+ - **Hinder**
+ 
+  Tinder but for finding frienemies.
