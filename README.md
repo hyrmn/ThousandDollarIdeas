@@ -7,7 +7,7 @@ Instead of one big, good idea to make a lot of money... a bunch of poor, small i
 
  - **KennelFinder.com**
   
-   KennelFinder never really went anywhere. I don't own it any more, having given it to friends, but could still work on it. They've agreed to let me open source the code. I'm going to rewrite with Nancy and show off some CQRS+ES+DDD concepts.
+   KennelFinder never really went anywhere. I don't own it any more, having given it to friends, but could still work on it. They've agreed to let me open source the code. 
 
   The site ended up being a use-it-once-and-done site. There's no stickiness. One option could be to extend it with boarding management. This would shift focus to vets and kennels as primary customers. Maybe pivot to helping them maintain an online presence.
 
