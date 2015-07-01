@@ -104,3 +104,7 @@ Instead of one big, good idea to make a lot of money... a bunch of poor, small i
  - **Hinder**
  
   Tinder but for finding frienemies.
+
+ - **FreshYourWork.com**
+ 
+  Have a co-worker with an odor problem? Anonymously send them a care package that includes bathroom toiletries and a nice note explaining that they need to pay a little more attention to their hygene. 
