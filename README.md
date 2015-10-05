@@ -53,7 +53,7 @@ Instead of one big, good idea to make a lot of money... a bunch of poor, small i
  
   Would like to start watering the garden from rain barrels. When the rain barrel levels are low, cycle on a pump from the spring to refill. Combined with the plant monitoring arduino, this would be an effective babysitting solution if we needed to get away for a weekend here and there in the summer (now, if I could come up with a weeding robot...)
 
- - **Cemetary Mananagement Software**
+ - **Cemetery Mananagement Software**
   
   Plot management, groundskeeping, expense reporting. Probably need trust accounting to track plot sales. Would be great to offer an api up for integrating with a site like findagrave.
 
