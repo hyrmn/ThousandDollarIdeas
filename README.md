@@ -112,3 +112,7 @@ Instead of one big, good idea to make a lot of money... a bunch of poor, small i
  - **letstacobout.it**
 
    Track your favorite taco trucks and stands. Inference engine to suggest crunchy (or soft!) goodness based on your eating patterns. 
+   
+ - **fromthedeskof.com**
+ 
+  Similar to Cablr, but for work environments such as cubicals, offices and more specifically desks. Got a sweet wall mounted triple monitor setup? Show it off. Came by a pigsty that's still reppin' a CRT monitor, let's see it. At work there is a guy with the largest L-desk known to man and hes got everything set up on one end as if he's sharing a kid sized picnic table with 4 other people.
