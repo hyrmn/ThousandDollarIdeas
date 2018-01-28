@@ -65,10 +65,6 @@ Instead of one big, good idea to make a lot of money... a bunch of poor, small i
 
   Many moons ago, I was bored in a training class on some product and wrote a little website where the front page was editable by anyone. I saved the last x (10 I think) versions of the site and thumbprinted the uploader's IP address. It actually got some traffic but I let it all die on the vine. It'd be fun to resurrect it in some form.
 
- - **Bowel movement log**
-  
-  Keep regular tabs on if you're regular. Could even build in predictive capability. Mood tracking.
-
  - **RateMyPorkChop**
  
   Because you absolutely need to know when and where you had a good pork chop. Should be able to search by location and also rating.
@@ -83,7 +79,7 @@ Instead of one big, good idea to make a lot of money... a bunch of poor, small i
 
  - **Cablr**
  
-  Network admins are like obsessed with their cable management work. Make a site for sharing cabling pictures like HotOrNot but specifically for server racks, basically.
+  Network admins are obsessed with their cable management work. Make a site for sharing cabling pictures like HotOrNot but specifically for server racks, basically.
 
  - **WheresMyStuff**
  
@@ -115,4 +111,4 @@ Instead of one big, good idea to make a lot of money... a bunch of poor, small i
    
  - **fromthedeskof.com**
  
-  Similar to Cablr, but for work environments such as cubicals, offices and more specifically desks. Got a sweet wall mounted triple monitor setup? Show it off. Came by a pigsty that's still reppin' a CRT monitor, let's see it. At work there is a guy with the largest L-desk known to man and hes got everything set up on one end as if he's sharing a kid sized picnic table with 4 other people.
+  Similar to Cablr, but for work environments such as cubicals, offices and more specifically desks. Got a sweet, wall-mounted triple monitor setup? Show it off. Came by a pigsty that's still reppin' a CRT monitor? Let's see it. At work, there is a guy with the largest L-desk known to man and he's got everything set up on one end as if he's sharing a kid sized picnic table with 4 other people.
