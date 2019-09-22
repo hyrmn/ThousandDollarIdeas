@@ -29,7 +29,7 @@ Instead of one big, good idea to make a lot of money... a bunch of poor, small i
  
   We set up http://chickadeecreekmi.com/ for some friends. It's on wordpress.com because that's a fairly straightforward, turn-key solution. However, that hosting nickles and dimes you. It's also overkill for what they need.
 
-  There are probably others that just need a really simple interface for creating content and setting some basic styles without all of the power of Wordpress. In addition to looking at some existing solutions out there, it might be fun to use cheap hosting like Azure or DigitalOcean to launch some farm-specific things. I could see a CSA wanting to publish a farm newsletter and let people know what to expect through the growing season, for example.
+  There are probably others that just need a really simple interface for creating content and setting some basic styles without all of the power of Wordpress. In addition to looking at some existing solutions out there, it might be fun to use cheap hosting like Azure or DigitalOcean to launch some farm-specific things. I could see a CSA wanting to publish a farm newsletter and let people know what to expect through the growing season, for example. (ed note: this was before the rise of static site generators and free options like Netlify and Netlify CMS. At this point, maybe a turnkey farm theme with some integrations for collecting mailing list subscriptions is the best option)
 
  - **Idea development site**
   
