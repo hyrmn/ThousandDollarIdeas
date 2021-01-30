@@ -112,3 +112,7 @@ Instead of one big, good idea to make a lot of money... a bunch of poor, small i
  - **fromthedeskof.com**
  
   Similar to Cablr, but for work environments such as cubicals, offices and more specifically desks. Got a sweet, wall-mounted triple monitor setup? Show it off. Came by a pigsty that's still reppin' a CRT monitor? Let's see it. At work, there is a guy with the largest L-desk known to man and he's got everything set up on one end as if he's sharing a kid sized picnic table with 4 other people.
+  
+ - **ShameBot**
+
+   A camera and a script. Set up the camera to see your kitchen; especially your kitchen sink. Script runs once a day, takes a picture, and uploads it to your social media. If your sink is full or your kitchen is a mess then everyone will know. 
